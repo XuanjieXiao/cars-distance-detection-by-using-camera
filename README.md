@@ -1,2 +1,3 @@
-# cars-distance-detection-by-using-camera
-we use the use camera to detect cars and their distance
+# 使用cmd命令调用电脑提前录制的行车记录仪视频，完成最视频中车辆的准确识别，并判断其距离  
+
+我们使用改进的YOLOv3-tiny算法，满足轻量化和实用化的要求的前提下，完成任务
