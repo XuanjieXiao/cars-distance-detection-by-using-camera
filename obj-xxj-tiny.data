@@ -1,0 +1,5 @@
+classes= 1
+train  = 2020_train.txt
+valid  = 2020_val.txt
+names = data/obj-xxj-tiny.names
+backup =backup
